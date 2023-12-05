@@ -6072,3 +6072,17 @@ L_Final3 (Other Actor)
 [2023.12.05-11.25.42:123][742]LogViewport: Scene viewport resized to 1742x537, mode Windowed.
 [2023.12.05-11.25.42:173][743]LogViewport: Scene viewport resized to 1742x507, mode Windowed.
 [2023.12.05-11.25.42:221][744]LogViewport: Scene viewport resized to 1742x496, mode Windowed.
+[2023.12.05-11.26.14:555][173]LogViewport: Scene viewport resized to 1742x498, mode Windowed.
+[2023.12.05-11.26.14:594][174]LogViewport: Scene viewport resized to 1742x502, mode Windowed.
+[2023.12.05-11.26.14:855][191]LogViewport: Scene viewport resized to 1742x501, mode Windowed.
+[2023.12.05-11.26.14:893][192]LogViewport: Scene viewport resized to 1742x492, mode Windowed.
+[2023.12.05-11.26.14:936][193]LogViewport: Scene viewport resized to 1742x484, mode Windowed.
+[2023.12.05-11.26.14:981][194]LogViewport: Scene viewport resized to 1742x478, mode Windowed.
+[2023.12.05-11.26.16:420][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-11.26.16:461][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera_pan_sequence" FILE="C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Content/Camera_pan_sequence.uasset" SILENT=true
+[2023.12.05-11.26.16:468][285]LogSavePackage: Moving output files for package: /Game/Camera_pan_sequence
+[2023.12.05-11.26.16:468][285]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/Camera_pan_sequenceA7E0D9524DD84E436BBC21944F79FC4B.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Content/Camera_pan_sequence.uasset'
+[2023.12.05-11.26.16:478][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 6.88 sec)
+[2023.12.05-11.26.16:482][285]AssetCheck: New page: Asset Save: Camera_pan_sequence
+[2023.12.05-11.26.16:483][285]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Camera_pan_sequence.Camera_pan_sequence
+[2023.12.05-11.26.17:019][305]LogViewport: Scene viewport resized to 1742x686, mode Windowed.
