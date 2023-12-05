@@ -8933,3 +8933,72 @@ L_Final3 (Other Actor)
 [2023.12.05-13.33.04:845][398]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/random_mat_3_Auto4
 [2023.12.05-13.33.04:845][398]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/random_mat_3_Auto4225D82054EBAB36C0540DA97AEF4BFD8.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/Autosaves/Game/Materials/random_mat_3_Auto4.uasset'
 [2023.12.05-13.33.04:846][398]LogFileHelpers: Auto-saving content packages took 0.085
+[2023.12.05-13.37.52:924][ 80]LogViewport: Scene viewport resized to 1742x746, mode Windowed.
+[2023.12.05-13.37.52:983][ 81]LogViewport: Scene viewport resized to 1742x748, mode Windowed.
+[2023.12.05-13.37.53:036][ 82]LogViewport: Scene viewport resized to 1742x753, mode Windowed.
+[2023.12.05-13.37.53:083][ 83]LogViewport: Scene viewport resized to 1742x758, mode Windowed.
+[2023.12.05-13.37.53:136][ 84]LogViewport: Scene viewport resized to 1742x765, mode Windowed.
+[2023.12.05-13.37.53:188][ 85]LogViewport: Scene viewport resized to 1742x771, mode Windowed.
+[2023.12.05-13.37.53:235][ 86]LogViewport: Scene viewport resized to 1742x788, mode Windowed.
+[2023.12.05-13.37.53:291][ 87]LogViewport: Scene viewport resized to 1742x807, mode Windowed.
+[2023.12.05-13.37.53:339][ 88]LogViewport: Scene viewport resized to 1742x821, mode Windowed.
+[2023.12.05-13.37.53:396][ 89]LogViewport: Scene viewport resized to 1742x829, mode Windowed.
+[2023.12.05-13.37.53:454][ 90]LogViewport: Scene viewport resized to 1742x837, mode Windowed.
+[2023.12.05-13.37.53:504][ 91]LogViewport: Scene viewport resized to 1742x838, mode Windowed.
+[2023.12.05-13.37.53:554][ 92]LogViewport: Scene viewport resized to 1742x840, mode Windowed.
+[2023.12.05-13.37.53:627][ 96]LogViewport: Scene viewport resized to 1742x842, mode Windowed.
+[2023.12.05-13.37.53:674][ 97]LogViewport: Scene viewport resized to 1742x844, mode Windowed.
+[2023.12.05-13.37.53:720][ 98]LogViewport: Scene viewport resized to 1742x847, mode Windowed.
+[2023.12.05-13.37.53:762][ 99]LogViewport: Scene viewport resized to 1742x850, mode Windowed.
+[2023.12.05-13.37.53:812][100]LogViewport: Scene viewport resized to 1742x860, mode Windowed.
+[2023.12.05-13.37.53:858][101]LogViewport: Scene viewport resized to 1742x868, mode Windowed.
+[2023.12.05-13.39.38:931][406]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Moving_corousel.Moving_corousel
+[2023.12.05-13.39.38:932][406]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.05-13.39.38:932][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.05-13.40.32:756][505]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.05-13.40.32:756][505]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.05-13.40.34:461][690]LogViewport: Scene viewport resized to 1782x855, mode Windowed.
+[2023.12.05-13.40.44:785][690]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.05-13.40.45:152][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.05-13.40.47:008][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.05-13.40.47:008][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.05-13.40.47:008][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.05-13.40.53:054][ 41]LogViewport: Scene viewport resized to 1782x855, mode Windowed.
+[2023.12.05-13.40.57:157][235]LogViewport: Scene viewport resized to 1777x855, mode Windowed.
+[2023.12.05-13.40.57:202][236]LogViewport: Scene viewport resized to 1757x855, mode Windowed.
+[2023.12.05-13.40.57:242][237]LogViewport: Scene viewport resized to 1715x855, mode Windowed.
+[2023.12.05-13.40.57:285][238]LogViewport: Scene viewport resized to 1667x855, mode Windowed.
+[2023.12.05-13.40.57:358][239]LogViewport: Scene viewport resized to 1614x855, mode Windowed.
+[2023.12.05-13.40.57:400][240]LogViewport: Scene viewport resized to 1597x855, mode Windowed.
+[2023.12.05-13.40.57:439][241]LogViewport: Scene viewport resized to 1592x855, mode Windowed.
+[2023.12.05-13.40.57:479][242]LogViewport: Scene viewport resized to 1588x855, mode Windowed.
+[2023.12.05-13.40.57:584][246]LogViewport: Scene viewport resized to 1585x855, mode Windowed.
+[2023.12.05-13.40.57:628][247]LogViewport: Scene viewport resized to 1584x855, mode Windowed.
+[2023.12.05-13.40.57:667][248]LogViewport: Scene viewport resized to 1581x855, mode Windowed.
+[2023.12.05-13.41.31:500][879]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.05-13.41.31:711][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.05-13.41.32:805][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-13.41.32:848][920]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.05-13.41.32:914][920]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.05-13.41.32:915][920]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/BP_ThirdPersonCharacter66F2D9A44FE10100AE9F3BB5A4175C50.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.05-13.41.32:928][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 25.7 sec)
+[2023.12.05-13.41.32:931][920]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.05-13.41.32:931][920]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.05-13.41.33:400][937]LogViewport: Scene viewport resized to 1579x872, mode Windowed.
+[2023.12.05-13.41.33:504][939]LogViewport: Scene viewport resized to 484x197, mode Windowed.
+[2023.12.05-13.41.33:866][956]LogViewport: Scene viewport resized to 1581x855, mode Windowed.
+[2023.12.05-13.41.34:058][966]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.12.05-13.44.05:939][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.05-13.44.05:945][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/L_Final' took 0.025
+[2023.12.05-13.44.05:946][453]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Moving_corousel] ([2] browsable assets)...
+[2023.12.05-13.44.06:004][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Moving_corousel.Moving_corousel]
+[2023.12.05-13.44.06:004][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Moving_corousel]
+[2023.12.05-13.44.06:004][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Moving_corousel" FILE="C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/Autosaves/Game/Moving_corousel_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.12.05-13.44.06:010][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Moving_corousel_Auto5
+[2023.12.05-13.44.06:010][453]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/Moving_corousel_Auto53DBCB3C64BF297C41558AE8B56E5B135.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/Autosaves/Game/Moving_corousel_Auto5.uasset'
+[2023.12.05-13.44.06:011][453]LogFileHelpers: Auto-saving content packages took 0.067
+[2023.12.05-13.47.08:360][328]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.47.08:360][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.47.08:823][356]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.05-13.47.08:823][356]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.47.08:823][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
