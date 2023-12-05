@@ -8861,3 +8861,75 @@ L_Final3 (Other Actor)
 [2023.12.05-13.20.19:799][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 25.6 sec)
 [2023.12.05-13.20.19:801][499]AssetCheck: New page: Asset Save: L_Final
 [2023.12.05-13.20.19:801][499]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/L_Final.L_Final
+[2023.12.05-13.32.29:228][764]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.29:228][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.29:557][774]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.29:557][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.29:916][795]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.29:916][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.30:357][818]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.05-13.32.30:357][818]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.30:357][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.31:615][882]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.05-13.32.31:615][882]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.31:615][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.31:852][890]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.31:852][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.33:958][931]LogSlate: Window 'Message' being destroyed
+[2023.12.05-13.32.33:965][931]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/random_mat_3.random_mat_3
+(Selecting 'No' will cause all changes to be lost!)
+[2023.12.05-13.32.34:529][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: ================================================
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Total job queries 2,036, among them cache hits 1,192 (58.55%)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Tracking 823 distinct input hashes that result in 366 distinct outputs (44.47%)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: RAM used: 18.61 MiB of 819.20 MiB budget. Usage: 2.27%
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Shaders Compiled: 823
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Jobs assigned 823, completed 823 (100%)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Average time worker was idle: 10.04 s
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.19 s
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Job execution time: average 0.58 s, max 3.03 s
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 3.03
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Shader code size: average 36.392 KiB, min 6.801 KiB, max 71.805 KiB
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 110.18 s
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Jobs were issued in 823 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Average processing rate: 7.47 jobs/sec
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Total thread time: 378.075 s
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Total thread preprocess time: 37.075 s
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Percentage time preprocessing: 9.81%
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Effective parallelization: 3.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 0.59 sec, max 0.72 sec, min 0.41 sec)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   13 times, average 0.58 sec, max 0.74 sec, min 0.43 sec)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   13 times, average 0.58 sec, max 0.73 sec, min 0.40 sec)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   24 times, average 0.57 sec, max 0.75 sec, min 0.50 sec)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   12 times, average 0.56 sec, max 0.71 sec, min 0.39 sec)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.83% of total time (compiled  135 times, average 0.53 sec, max 1.02 sec, min 0.26 sec)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.73% of total time (compiled  140 times, average 0.42 sec, max 0.61 sec, min 0.30 sec)
+[2023.12.05-13.32.34:678][931]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.39% of total time (compiled  104 times, average 0.41 sec, max 0.64 sec, min 0.33 sec)
+[2023.12.05-13.32.34:679][931]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.02% of total time (compiled  104 times, average 0.29 sec, max 0.63 sec, min 0.15 sec)
+[2023.12.05-13.32.34:679][931]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 3.61% of total time (compiled   24 times, average 0.57 sec, max 0.75 sec, min 0.50 sec)
+[2023.12.05-13.32.34:679][931]LogShaderCompilers: Display: ================================================
+[2023.12.05-13.32.34:694][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.12.05-13.32.34:751][931]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.34:751][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.35:227][973]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.35:227][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.36:666][111]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.36:666][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.37:239][168]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.37:239][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.32.37:746][187]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.05-13.32.37:746][187]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-13.32.37:746][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-13.33.04:734][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.05-13.33.04:761][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/L_Final' took 0.046
+[2023.12.05-13.33.04:762][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/random_mat_3] ([1] browsable assets)...
+[2023.12.05-13.33.04:842][398]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/random_mat_3.random_mat_3]
+[2023.12.05-13.33.04:842][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/random_mat_3]
+[2023.12.05-13.33.04:845][398]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/random_mat_3_Auto4
+[2023.12.05-13.33.04:845][398]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/random_mat_3_Auto4225D82054EBAB36C0540DA97AEF4BFD8.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/Autosaves/Game/Materials/random_mat_3_Auto4.uasset'
+[2023.12.05-13.33.04:846][398]LogFileHelpers: Auto-saving content packages took 0.085
