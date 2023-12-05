@@ -8818,3 +8818,46 @@ L_Final3 (Other Actor)
 [2023.12.05-12.13.44:082][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 343 ms (total: 24.6 sec)
 [2023.12.05-12.13.44:086][224]AssetCheck: New page: Asset Save: L_Final
 [2023.12.05-12.13.44:086][224]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/L_Final.L_Final
+[2023.12.05-12.14.34:954][ 20]Cmd: TRANSACTION UNDO
+[2023.12.05-12.14.34:955][ 20]LogEditorTransaction: Undo Create Actors
+[2023.12.05-12.14.35:007][ 20]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/L_Final.L_Final:PersistentLevel.ModelComponent_734' invalid (48457 verts, 0 indices).
+[2023.12.05-12.14.35:668][ 20]Cmd: TRANSACTION UNDO
+[2023.12.05-12.14.35:668][ 20]LogEditorTransaction: Undo Create Actors
+[2023.12.05-12.14.36:265][ 20]Cmd: TRANSACTION UNDO
+[2023.12.05-12.14.36:265][ 20]LogEditorTransaction: Undo Create Actors
+[2023.12.05-12.15.29:664][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-12.15.29:749][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.12.05-12.15.29:940][912]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/L_Final
+[2023.12.05-12.15.29:941][912]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/L_FinalC9FF0DF14928E93F295B478B5E59A9F3.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Content/ThirdPerson/Maps/L_Final.umap'
+[2023.12.05-12.15.29:949][912]LogFileHelpers: Saving map 'L_Final' took 0.248
+[2023.12.05-12.15.29:960][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 296 ms (total: 24.9 sec)
+[2023.12.05-12.15.29:965][912]AssetCheck: New page: Asset Save: L_Final
+[2023.12.05-12.15.29:965][912]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/L_Final.L_Final
+[2023.12.05-12.15.30:756][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-12.15.30:851][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.12.05-12.15.31:097][956]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/L_Final
+[2023.12.05-12.15.31:098][956]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/L_Final5BA4DB804EE27B1C29379E8434A882B0.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Content/ThirdPerson/Maps/L_Final.umap'
+[2023.12.05-12.15.31:110][956]LogFileHelpers: Saving map 'L_Final' took 0.303
+[2023.12.05-12.15.31:127][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 369 ms (total: 25.3 sec)
+[2023.12.05-12.15.31:135][956]AssetCheck: New page: Asset Save: L_Final
+[2023.12.05-12.15.31:135][956]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/L_Final.L_Final
+[2023.12.05-12.25.31:453][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.12.05-12.25.31:455][304]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/L_Final' took 0.018
+[2023.12.05-12.25.31:456][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/Sequence/SequenceRoot] ([1] browsable assets)...
+[2023.12.05-12.25.31:456][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/Sequence/SequenceRoot]
+[2023.12.05-12.25.31:459][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Sequences/Sequence/SequenceRoot_Auto3
+[2023.12.05-12.25.31:459][304]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/SequenceRoot_Auto373F2E0A24727D7D47AB296BA43B3793D.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/SequenceRoot_Auto3.uasset'
+[2023.12.05-12.25.31:460][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/Sequence/shot/shot0010/shot0010_01] ([1] browsable assets)...
+[2023.12.05-12.25.31:460][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/Sequence/shot/shot0010/shot0010_01]
+[2023.12.05-12.25.31:466][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cinematics/Sequences/Sequence/shot/shot0010/shot0010_01_Auto3
+[2023.12.05-12.25.31:466][304]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/shot0010_01_Auto32EB139904A5837DDC296F4ABBA8F5B29.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/Autosaves/Game/Cinematics/Sequences/Sequence/shot/shot0010/shot0010_01_Auto3.uasset'
+[2023.12.05-12.25.31:467][304]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.12.05-13.00.45:250][646]LogDerivedDataCache: C:/Users/ahmet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.150 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3562 files in 4902 folders with total size 245 MiB.
+[2023.12.05-13.20.19:518][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.05-13.20.19:594][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.12.05-13.20.19:785][499]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/L_Final
+[2023.12.05-13.20.19:786][499]LogSavePackage: Moving 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Saved/L_FinalC7F2265140D8EFDE74C25C97FDBDA98A.tmp' to 'C:/Users/ahmet/Documents/Unreal Projects/Unreal-Assignment/Content/ThirdPerson/Maps/L_Final.umap'
+[2023.12.05-13.20.19:793][499]LogFileHelpers: Saving map 'L_Final' took 0.239
+[2023.12.05-13.20.19:799][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 25.6 sec)
+[2023.12.05-13.20.19:801][499]AssetCheck: New page: Asset Save: L_Final
+[2023.12.05-13.20.19:801][499]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/L_Final.L_Final
